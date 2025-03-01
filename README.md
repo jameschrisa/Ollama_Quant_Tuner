@@ -1,4 +1,4 @@
-# Ollama Manager
+# Ollama Quantized Performance Analyis Manager
 
 A beautiful terminal application for managing Ollama models, parameters, and memory usage.
 
