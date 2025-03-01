@@ -1,4 +1,4 @@
-# Ollama Manager - Project Summary
+# Ollama Quantized Tuning Manager - Project Summary
 
 ## Overview
 
@@ -7,7 +7,7 @@ Ollama Manager is a comprehensive Python-based terminal application that provide
 ## Project Structure
 
 ```
-ollama-manager/
+Ollama_Quant_Tuner/
 │
 ├── main.py                  # Main entry point
 ├── ollama_manager.py        # Core application functionality
