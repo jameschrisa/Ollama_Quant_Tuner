@@ -2,8 +2,6 @@
 
 A beautiful terminal application for managing Ollama models, parameters, and memory usage.
 
-![Ollama Manager Screenshot](screenshot.png)
-
 ## Features
 
 - 🎨 Beautiful command-line UI using Rich for Python
